@@ -16,6 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          user: sudovinh
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/Los_Angeles
