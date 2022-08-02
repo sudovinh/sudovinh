@@ -1,0 +1,21 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: GitHub Metrics Updates
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: imgs/gh-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Los_Angeles

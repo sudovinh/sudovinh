@@ -35,7 +35,8 @@
 ## Stats 📊
 
 ### Github
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudovinh&show_icons=true" alt="sudovinh" />
+
+![GitHub Metrics](/imgs/gh-metrics.svg)
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
