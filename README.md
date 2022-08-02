@@ -51,5 +51,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCqqqRI3fx6G9WGgkA1nQkVg)
 
 ---
- ![Profile views](https://visitor-badge.glitch.me/badge?page_id=sudovinh.sudovinh)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=sudovinh.sudovinh)
+
 [![Weekly Dev Breakdown Updates](https://github.com/sudovinh/sudovinh/actions/workflows/waka-update.yml/badge.svg?branch=main)](https://github.com/sudovinh/sudovinh/actions/workflows/waka-update.yml)
+[![Latest YouTube Videos Updates](https://github.com/sudovinh/sudovinh/actions/workflows/youtube-update.yml/badge.svg?branch=main)](https://github.com/sudovinh/sudovinh/actions/workflows/youtube-update.yml)
