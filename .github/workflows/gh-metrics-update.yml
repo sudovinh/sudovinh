@@ -17,5 +17,5 @@ jobs:
 
           # Options
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: America/Los_Angeles
