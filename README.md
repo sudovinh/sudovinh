@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   7 hrs 45 mins   ██████████████▓░░░░░░░░░░   58.59 %
-Other       3 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
+Terraform    8 hrs 28 mins   ███████████████▓░░░░░░░░░   62.98 %
+Other        3 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   24.52 %
 ```
 
 <!--END_SECTION:waka-->
