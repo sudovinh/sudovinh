@@ -40,9 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 1 min     █████████░░░░░░░░░░░░░░░░   36.52 %
-YAML         2 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Other        2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Python       6 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   39.01 %
+Markdown     2 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Other        1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
 ```
 
 <!--END_SECTION:waka-->
