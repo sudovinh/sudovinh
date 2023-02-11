@@ -40,9 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown    6 hrs 56 mins   ███████████▓░░░░░░░░░░░░░   46.73 %
-Python      3 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-Other       1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Markdown    7 hrs 25 mins   ███████████░░░░░░░░░░░░░░   44.44 %
+Python      6 hrs           █████████░░░░░░░░░░░░░░░░   35.96 %
+Terraform   1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Other       58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
 ```
 
 <!--END_SECTION:waka-->
