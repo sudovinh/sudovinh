@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash         4 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
-Other        4 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
+Go          4 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.25 %
+Other       3 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.11 %
 ```
 
 <!--END_SECTION:waka-->
