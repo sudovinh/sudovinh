@@ -39,7 +39,7 @@
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 
-```text
+```txt
 YAML        10 hrs 26 mins  ██████████████▓░░░░░░░░░░   58.67 %
 Markdown    3 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
 Other       1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
