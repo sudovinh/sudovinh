@@ -5,7 +5,7 @@
 # Hello World! <img src = "imgs/world.gif" width = 30px>
 
 <h2>Hi there, I'm <a href="https://sudovinh.com/">Vinh</a> <img src = "imgs/wave.gif" width = 30px></h2>
-<p>I'm currently a software engineer (SRE/DevOps) at <strong><a href="https://www.foursquare.com/">Foursquare</a></strong> based in 🏝 Los Angeles. Outside of coding, I love to make short-films, photography, and playing games.</p>
+<p>I'm currently a Senior Software Engineer (SRE/DevOps) at <strong><a href="https://www.ziprecruiter.com/">ZipRecruiter</a></strong> based in 🏝 Los Angeles. Outside of coding, I love to make short-films, photography, and playing games.</p>
 
 - 🛠 Current side-projects: cloud-based platform for automated store checkouts and tinkering with my home network with kubernetes.
 
@@ -17,7 +17,7 @@
   <img align="left" alt="Sudovinh | Twitter" width="22px" src="imgs/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vinhtunguyen/">
-  <img align="left" alt="Vinh's LinkedIN" width="22px" src="imgs/linkedin.svg" />
+  <img align="left" alt="Vinh's LinkedIn" width="22px" src="imgs/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/sudovinh/">
   <img align="left" alt="Vinh's Instagram" width="22px" src="imgs/instagram.png" />
