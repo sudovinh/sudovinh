@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    23 hrs 4 mins   █████████████████▒░░░░░░░   69.83 %
-Other        3 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-HCL          2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-Markdown     1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Go           46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
