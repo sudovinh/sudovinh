@@ -40,8 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go          7 mins          ████████████████████▓░░░░   83.04 %
-Terraform   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+Terraform   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
