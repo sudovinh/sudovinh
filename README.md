@@ -40,7 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown    39 mins         ███████████████▒░░░░░░░░░   61.21 %
+YAML        20 mins         ███████▓░░░░░░░░░░░░░░░░░   31.12 %
+Terraform   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Makefile    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
