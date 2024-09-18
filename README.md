@@ -40,11 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 53 mins    █████████████████▓░░░░░░░   70.70 %
-Markdown     38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.10 %
-INI          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-SSH Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Git          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
