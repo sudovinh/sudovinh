@@ -40,7 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TOML        16 mins         ███████████▓░░░░░░░░░░░░░   47.24 %
+Other       13 mins         █████████▓░░░░░░░░░░░░░░░   38.12 %
+Markdown    2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+YAML        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Git         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
