@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML         3 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-Terraform    2 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+TOML         2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Terraform    2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 ```
 
 <!--END_SECTION:waka-->
