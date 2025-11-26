@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
-Bash         1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Terraform   1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Other       31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
