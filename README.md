@@ -40,9 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform         3 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Other             2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Makefile          2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Terraform         7 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+Makefile          2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Bash              1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
