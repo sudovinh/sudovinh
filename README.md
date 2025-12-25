@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Terraform    1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Other        1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Docker       44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
 ```
 
 <!--END_SECTION:waka-->
