@@ -40,7 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Terraform   21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
+terraform   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Git         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Bash        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 ```
 
 <!--END_SECTION:waka-->
