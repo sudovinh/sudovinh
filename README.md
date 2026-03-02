@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
