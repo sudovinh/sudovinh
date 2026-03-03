@@ -40,7 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Git            9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+shell script   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
