@@ -40,9 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git               9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Protocol Buffer   6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Dockerfile        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Git               9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+shell script      9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Protocol Buffer   6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Go                3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
