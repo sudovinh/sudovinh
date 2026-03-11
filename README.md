@@ -40,9 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-shell script      9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Protocol Buffer   6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Go                3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+shell script   9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Go             3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
