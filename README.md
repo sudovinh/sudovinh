@@ -40,8 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-shell script   9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Go             3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+terraform   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
