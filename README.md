@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker      12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-terraform   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Docker         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+shell script   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
