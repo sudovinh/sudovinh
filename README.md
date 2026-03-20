@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-shell script   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Docker         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+shell script   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
