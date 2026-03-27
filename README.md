@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-terraform      23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-shell script   10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+terraform      23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+shell script   10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
