@@ -40,9 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     2 hrs 57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Other          2 hrs 9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-shell script   1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+TypeScript     2 hrs 57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Other          1 hr 34 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+shell script   1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
