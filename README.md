@@ -40,9 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other       2 hrs 12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-GDScript3   2 hrs 6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-TOML        1 hr 33 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Other          3 hrs 14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+GDScript3      2 hrs 6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+TOML           1 hr 33 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->
