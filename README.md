@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+terraform   2 mins                █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
 ```
 
 <!--END_SECTION:waka-->
