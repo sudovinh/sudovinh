@@ -40,8 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil          42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-ActionScript   41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Ezhil          42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+ActionScript   41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 ```
 
 <!--END_SECTION:waka-->
