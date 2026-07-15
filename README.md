@@ -13,8 +13,8 @@
 
 - 💬 Talk to me about Cloud Infrastructure, Automation, Build Pipelines, and Python.
 
-<a href="https://twitter.com/sudovinh">
-  <img align="left" alt="Sudovinh | Twitter" width="22px" src="imgs/twitter.svg" />
+<a href="https://x.com/sudovinh">
+  <img align="left" alt="Sudovinh | X" width="22px" src="imgs/x.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vinhtunguyen/">
   <img align="left" alt="Vinh's LinkedIn" width="22px" src="imgs/linkedin.svg" />
@@ -36,6 +36,8 @@
 
 ![GitHub Metrics](/imgs/gh-metrics.svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudovinh&theme=default&hide_border=true)](https://github.com/sudovinh)
+
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 
@@ -48,6 +50,14 @@ Ezhil          42 mins         █░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+### Contribution snake 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudovinh/sudovinh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudovinh/sudovinh/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sudovinh/sudovinh/output/github-snake.svg" />
+</picture>
+
 ---
 
 ## Latest YouTube Videos 📺 
@@ -58,10 +68,12 @@ Ezhil          42 mins         █░░░░░░░░░░░░░░░�
 ➡️ [more videos...](https://www.youtube.com/channel/UCqqqRI3fx6G9WGgkA1nQkVg)
 
 ---
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=sudovinh.sudovinh)
+![Profile views](https://komarev.com/ghpvc/?username=sudovinh&label=Profile%20views&color=0e75b6&style=flat)
 
 [![GitHub Metrics Updates](https://github.com/sudovinh/sudovinh/actions/workflows/gh-metrics-update.yml/badge.svg)](https://github.com/sudovinh/sudovinh/actions/workflows/gh-metrics-update.yml)
 
 [![Weekly Dev Breakdown Updates](https://github.com/sudovinh/sudovinh/actions/workflows/waka-update.yml/badge.svg)](https://github.com/sudovinh/sudovinh/actions/workflows/waka-update.yml)
 
 [![Latest YouTube Videos Updates](https://github.com/sudovinh/sudovinh/actions/workflows/youtube-update.yml/badge.svg)](https://github.com/sudovinh/sudovinh/actions/workflows/youtube-update.yml)
+
+[![Generate Snake Animation](https://github.com/sudovinh/sudovinh/actions/workflows/snake.yml/badge.svg)](https://github.com/sudovinh/sudovinh/actions/workflows/snake.yml)
