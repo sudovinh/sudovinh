@@ -15,3 +15,7 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCqqqRI3fx6G9WGgkA1nQkVg"
+          # YouTube's feed endpoint intermittently returns 404 (rate limiting).
+          # Retry transient failures instead of failing the whole run.
+          retry_count: 5
+          retry_wait_time: 30
