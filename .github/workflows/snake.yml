@@ -17,6 +17,12 @@ jobs:
       contents: write
     steps:
       - name: Generate snake SVGs (light + dark)
+        id: snake
+        # GitHub's GraphQL contribution query intermittently rejects this with
+        # "Resource limits for this query exceeded" (a GitHub-side limit that
+        # comes and goes over days). Don't fail the run over a cosmetic snake —
+        # tolerate it and keep the previously published SVGs.
+        continue-on-error: true
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -25,6 +31,9 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push SVGs to the output branch
+        # Only publish when generation succeeded, so a rejected query leaves the
+        # last good snake in place instead of wiping it.
+        if: steps.snake.outcome == 'success'
         uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: output
