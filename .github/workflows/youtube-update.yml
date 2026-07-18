@@ -19,7 +19,8 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCqqqRI3fx6G9WGgkA1nQkVg"
-          # YouTube's feed endpoint can also 404 transiently under load; retry
-          # before giving up so real content isn't missed once videos exist.
-          retry_count: 5
-          retry_wait_time: 30
+          # YouTube's feed endpoint can also 404 transiently under load; a couple
+          # of quick retries catch that once videos exist, without burning runner
+          # time on the current no-videos case (continue-on-error handles that).
+          retry_count: 2
+          retry_wait_time: 15
